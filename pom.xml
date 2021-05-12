@@ -11,7 +11,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<javax.validation.version>2.0.1.Final</javax.validation.version>
-		<spring.security.version>5.1.5.RELEASE</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 		<webjar.mdbootstrap.version>4.7.4</webjar.mdbootstrap.version>
 		<webjar.datatables.version>1.10.12</webjar.datatables.version>
 		<spring.data.version>2.1.8.RELEASE</spring.data.version>
